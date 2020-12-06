@@ -2,8 +2,8 @@
 Email is the lowest common denominator for online communication. Let's fix it.
 
 # Goals
-1. Based on the (https://jmap.io/)[JMAP protocol], RTC-JMAP aims to provide open source Real Time Chat in the email  
-2. Provide open source (https://www.cyrusimap.org/index.html)[email server] software which facilitates Real Time Chat using JMAP email
+1. Based on the [https://jmap.io/](JMAP protocol), RTC-JMAP aims to provide open source Real Time Chat in the email  
+2. Provide open source [https://www.cyrusimap.org/index.html](email server) software which facilitates Real Time Chat using JMAP email
   * This server software should provide IMAP functionality to allow backwards compatibility with legacy 
   * Provide graceful fallback to older email protocols for email addresses that do not use JMAP
   * Legacy emails sent to RTC-JMAP accounts will be delivered successfully to JMAP inboxes
